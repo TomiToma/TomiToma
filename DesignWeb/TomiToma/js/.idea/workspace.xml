@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b55d21e-b287-465e-8b0f-ca1a7db68e5d" name="Default Changelist" comment="" />
+    <list default="true" id="00effb63-a460-4810-bf4f-529ca516fe48" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,34 +13,15 @@
       <executable />
     </execution>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="CSS File" />
-        <option value="HTML File" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
-  <component name="ProjectId" id="1QPy8lWDOLVX6lwB6xd9x2r5t9W" />
+  <component name="ProjectId" id="1RFlgIY0onKj42Xzfnclj6UH1EL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Tom\PhpstormProjects\HelloBootStrap\img" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Tom\PhpstormProjects\HelloBootStrap" />
-      <recent name="C:\Users\Tom\PhpstormProjects\HelloBootStrap\js" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -59,18 +40,13 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3b55d21e-b287-465e-8b0f-ca1a7db68e5d" name="Default Changelist" comment="" />
-      <created>1567686368273</created>
+      <changelist id="00effb63-a460-4810-bf4f-529ca516fe48" name="Default Changelist" comment="" />
+      <created>1569270834750</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1567686368273</updated>
-      <workItem from="1567686369436" duration="5357000" />
-      <workItem from="1567703850976" duration="149000" />
-      <workItem from="1568056498704" duration="6382000" />
-      <workItem from="1568081265918" duration="67000" />
-      <workItem from="1568082772487" duration="1393000" />
-      <workItem from="1568117495548" duration="2926000" />
-      <workItem from="1569289396788" duration="48000" />
+      <updated>1569270834750</updated>
+      <workItem from="1569270835851" duration="14000" />
+      <workItem from="1569271004503" duration="376000" />
     </task>
     <servers />
   </component>
@@ -82,7 +58,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

@@ -1,0 +1,17 @@
+
+html,body{
+    background-color: antiquewhite;
+}
+
+img {
+    border-radius: 50%;
+}
+.bgRose{
+    background-color: pink;
+}
+.bgRose2{
+    background-color: hotpink;
+}
+h1{
+    color: antiquewhite;
+}

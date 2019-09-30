@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b55d21e-b287-465e-8b0f-ca1a7db68e5d" name="Default Changelist" comment="" />
+    <list default="true" id="4811f4f7-cc75-4084-b201-ffde272b0c3f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,15 +16,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="1QPy8lWDOLVX6lwB6xd9x2r5t9W" />
+  <component name="ProjectId" id="1RFf8FvbP43p53abuHabxrPCgy9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -34,12 +34,11 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Tom\PhpstormProjects\HelloBootStrap\img" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Tom\PhpstormProjects\HelloBootStrap" />
-      <recent name="C:\Users\Tom\PhpstormProjects\HelloBootStrap\js" />
+      <recent name="C:\Users\Tom\Documents\GitHub\TomiToma\DesignWeb\Favicon\js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Tom\Documents\GitHub\TomiToma\DesignWeb\Favicon\js" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -59,18 +58,22 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3b55d21e-b287-465e-8b0f-ca1a7db68e5d" name="Default Changelist" comment="" />
-      <created>1567686368273</created>
+      <changelist id="4811f4f7-cc75-4084-b201-ffde272b0c3f" name="Default Changelist" comment="" />
+      <created>1569267603432</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1567686368273</updated>
-      <workItem from="1567686369436" duration="5357000" />
-      <workItem from="1567703850976" duration="149000" />
-      <workItem from="1568056498704" duration="6382000" />
-      <workItem from="1568081265918" duration="67000" />
-      <workItem from="1568082772487" duration="1393000" />
-      <workItem from="1568117495548" duration="2926000" />
-      <workItem from="1569289396788" duration="48000" />
+      <updated>1569267603432</updated>
+      <workItem from="1569267604744" duration="3227000" />
+      <workItem from="1569270850597" duration="1411000" />
+      <workItem from="1569282827134" duration="1118000" />
+      <workItem from="1569292266689" duration="314000" />
+      <workItem from="1569327192917" duration="15000" />
+      <workItem from="1569327276297" duration="3054000" />
+      <workItem from="1569331362139" duration="2136000" />
+      <workItem from="1569342836550" duration="1190000" />
+      <workItem from="1569348630882" duration="36000" />
+      <workItem from="1569377021751" duration="44000" />
+      <workItem from="1569440246180" duration="8000" />
     </task>
     <servers />
   </component>
@@ -82,7 +85,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

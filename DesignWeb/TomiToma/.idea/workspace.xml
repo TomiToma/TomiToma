@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b55d21e-b287-465e-8b0f-ca1a7db68e5d" name="Default Changelist" comment="" />
+    <list default="true" id="b520f1e0-ddea-4d57-a4d3-80d0ec630aba" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +16,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -24,22 +23,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="1QPy8lWDOLVX6lwB6xd9x2r5t9W" />
+  <component name="ProjectId" id="1QxxFiWwAy3yMXyUjUlBYd6fdba" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Favicon" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Tom\PhpstormProjects\HelloBootStrap\img" />
+      <recent name="C:\Users\Tom\Documents\GitHub\TomiToma\DesignWeb\TomiToma" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Tom\PhpstormProjects\HelloBootStrap" />
-      <recent name="C:\Users\Tom\PhpstormProjects\HelloBootStrap\js" />
+      <recent name="C:\Users\Tom\Documents\GitHub\TomiToma\DesignWeb\TomiToma" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -59,18 +56,24 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3b55d21e-b287-465e-8b0f-ca1a7db68e5d" name="Default Changelist" comment="" />
-      <created>1567686368273</created>
+      <changelist id="b520f1e0-ddea-4d57-a4d3-80d0ec630aba" name="Default Changelist" comment="" />
+      <created>1568725946981</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1567686368273</updated>
-      <workItem from="1567686369436" duration="5357000" />
-      <workItem from="1567703850976" duration="149000" />
-      <workItem from="1568056498704" duration="6382000" />
-      <workItem from="1568081265918" duration="67000" />
-      <workItem from="1568082772487" duration="1393000" />
-      <workItem from="1568117495548" duration="2926000" />
-      <workItem from="1569289396788" duration="48000" />
+      <updated>1568725946981</updated>
+      <workItem from="1568725948163" duration="3131000" />
+      <workItem from="1568738000897" duration="472000" />
+      <workItem from="1568741366584" duration="83000" />
+      <workItem from="1568902582905" duration="6043000" />
+      <workItem from="1568999745243" duration="1390000" />
+      <workItem from="1569001514909" duration="17000" />
+      <workItem from="1569266800596" duration="35000" />
+      <workItem from="1569266921194" duration="581000" />
+      <workItem from="1569288507011" duration="1509000" />
+      <workItem from="1569290197192" duration="898000" />
+      <workItem from="1569292255363" duration="10000" />
+      <workItem from="1569327210176" duration="65000" />
+      <workItem from="1569330335551" duration="1025000" />
     </task>
     <servers />
   </component>
@@ -82,7 +85,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
