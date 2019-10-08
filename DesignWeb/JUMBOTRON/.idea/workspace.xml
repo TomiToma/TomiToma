@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4811f4f7-cc75-4084-b201-ffde272b0c3f" name="Default Changelist" comment="" />
+    <list default="true" id="5435e9fc-588a-4919-9a79-a252f8089645" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,32 +13,19 @@
       <executable />
     </execution>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-        <option value="CSS File" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="1RFf8FvbP43p53abuHabxrPCgy9" />
+  <component name="ProjectId" id="1RNdrsL9ld3zalGReHrsdDCL6Zu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TomiToma" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Tom\Documents\GitHub\TomiToma\DesignWeb\Favicon\js" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Tom\Documents\GitHub\TomiToma\DesignWeb\Favicon\js" />
+      <recent name="C:\Users\Tom\Documents\GitHub\TomiToma\Thetford\img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -58,25 +45,14 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4811f4f7-cc75-4084-b201-ffde272b0c3f" name="Default Changelist" comment="" />
-      <created>1569267603432</created>
+      <changelist id="5435e9fc-588a-4919-9a79-a252f8089645" name="Default Changelist" comment="" />
+      <created>1569511690018</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1569267603432</updated>
-      <workItem from="1569267604744" duration="3227000" />
-      <workItem from="1569270850597" duration="1411000" />
-      <workItem from="1569282827134" duration="1118000" />
-      <workItem from="1569292266689" duration="314000" />
-      <workItem from="1569327192917" duration="15000" />
-      <workItem from="1569327276297" duration="3054000" />
-      <workItem from="1569331362139" duration="2136000" />
-      <workItem from="1569342836550" duration="1190000" />
-      <workItem from="1569348630882" duration="36000" />
-      <workItem from="1569377021751" duration="44000" />
-      <workItem from="1569440246180" duration="8000" />
-      <workItem from="1569507186338" duration="211000" />
-      <workItem from="1569508115472" duration="28000" />
-      <workItem from="1569531734380" duration="1353000" />
+      <updated>1569511690018</updated>
+      <workItem from="1569511691584" duration="2070000" />
+      <workItem from="1569531697608" duration="36000" />
+      <workItem from="1569716842582" duration="37000" />
     </task>
     <servers />
   </component>

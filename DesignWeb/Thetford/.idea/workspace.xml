@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4811f4f7-cc75-4084-b201-ffde272b0c3f" name="Default Changelist" comment="" />
+    <list default="true" id="3b55d21e-b287-465e-8b0f-ca1a7db68e5d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,32 +13,50 @@
       <executable />
     </execution>
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="1RFf8FvbP43p53abuHabxrPCgy9" />
+  <component name="ProjectId" id="1QPy8lWDOLVX6lwB6xd9x2r5t9W" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TomiToma" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Tom\Documents\GitHub\TomiToma\DesignWeb\Favicon\js" />
+      <recent name="C:\Users\Tom\Documents\GitHub\TomiToma\DesignWeb\JUMBOTRON" />
+      <recent name="C:\Users\Tom\PhpstormProjects\HelloBootStrap" />
+      <recent name="C:\Users\Tom\PhpstormProjects\HelloBootStrap\js" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Tom\Documents\GitHub\TomiToma\DesignWeb\Favicon\js" />
+      <recent name="C:\Users\Tom\Documents\GitHub\TomiToma\DesignWeb\Thetford\img" />
+      <recent name="C:\Users\Tom\Documents\GitHub\TomiToma\DesignWeb\JUMBOTRON" />
+      <recent name="C:\Users\Tom\PhpstormProjects\HelloBootStrap\img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -58,25 +76,28 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4811f4f7-cc75-4084-b201-ffde272b0c3f" name="Default Changelist" comment="" />
-      <created>1569267603432</created>
+      <changelist id="3b55d21e-b287-465e-8b0f-ca1a7db68e5d" name="Default Changelist" comment="" />
+      <created>1567686368273</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1569267603432</updated>
-      <workItem from="1569267604744" duration="3227000" />
-      <workItem from="1569270850597" duration="1411000" />
-      <workItem from="1569282827134" duration="1118000" />
-      <workItem from="1569292266689" duration="314000" />
-      <workItem from="1569327192917" duration="15000" />
-      <workItem from="1569327276297" duration="3054000" />
-      <workItem from="1569331362139" duration="2136000" />
-      <workItem from="1569342836550" duration="1190000" />
-      <workItem from="1569348630882" duration="36000" />
-      <workItem from="1569377021751" duration="44000" />
-      <workItem from="1569440246180" duration="8000" />
-      <workItem from="1569507186338" duration="211000" />
-      <workItem from="1569508115472" duration="28000" />
-      <workItem from="1569531734380" duration="1353000" />
+      <updated>1567686368273</updated>
+      <workItem from="1567686369436" duration="5357000" />
+      <workItem from="1567703850976" duration="149000" />
+      <workItem from="1568056498704" duration="6382000" />
+      <workItem from="1568081265918" duration="67000" />
+      <workItem from="1568082772487" duration="1393000" />
+      <workItem from="1568117495548" duration="2926000" />
+      <workItem from="1569289396788" duration="48000" />
+      <workItem from="1569510781685" duration="183000" />
+      <workItem from="1569510977245" duration="55000" />
+      <workItem from="1569511047386" duration="543000" />
+      <workItem from="1569716812403" duration="28000" />
+      <workItem from="1569871004395" duration="153000" />
+      <workItem from="1569871158188" duration="2633000" />
+      <workItem from="1569873807465" duration="3399000" />
+      <workItem from="1569891273572" duration="2493000" />
+      <workItem from="1569931460734" duration="6387000" />
+      <workItem from="1570113610346" duration="28000" />
     </task>
     <servers />
   </component>

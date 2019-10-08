@@ -11,16 +11,49 @@
 </head>
 <body>
 
-<div class="container-fluid">
-    <div class="row">
-        <div class="col-xl-6  col-lg-3 bleu">
-            <h1 class="text-center text-white">6/12 de la page</h1>
-        </div>
-        <div class="col-xl-6 col-lg-9 rouge">
-            <h1 class="text-center text-white">6/12 de la page</h1>
+<!-- Bouton qui ouvre le modal (nous verrons d’autres façons de l’ouvrir avec Javascript) -->
+<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
+    Ouvrir le modal
+</button>
+
+
+<div class="modal" tabindex="-1" role="dialog" id="exampleModal">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Modal title</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <p>Modal body text goes here.</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary">Save changes</button>
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            </div>
         </div>
     </div>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <script src="js/jquery-3.4.1.min.js"></script>
 <script src="js/bootstrap.js"></script>
 </body>

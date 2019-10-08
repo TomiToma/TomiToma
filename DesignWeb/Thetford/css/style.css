@@ -1,0 +1,65 @@
+html,body { margin:0; height:100%;}
+
+.parallax {
+    /* L’image du Parallax */
+    background-image: url("../img/doof.jpg");
+
+    /* L’hauteur du Parallax */
+    height: 100%;
+
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bgOpaque{
+    background-color: rgba(255,255,0,.75);
+}
+/* Cellulaires */
+@media only screen and (max-width: 480px){
+
+}
+/* TABLETTES */
+@media screen and (min-width: 481px) and (max-width: 1199px) {
+
+}
+.bgOpaque1{
+    background-color: rgb(0 ,255 ,255 ,.75);
+}
+h1{
+    font-size: large;
+}
+
+.parallax1 {
+    /* L’image du Parallax */
+    background-image: url("../img/LegoBatman.jpg");
+
+    /* L’hauteur du Parallax */
+    height: 632px;
+
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.pp{
+    color: #c82333;
+}
+.parallax2 {
+    /* L’image du Parallax */
+    background-image: url("../img/awp.jpg");
+
+    /* L’hauteur du Parallax */
+    height: 632px;
+
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.ppp{
+    color: #abdde5;
+}

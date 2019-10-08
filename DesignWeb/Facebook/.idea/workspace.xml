@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4811f4f7-cc75-4084-b201-ffde272b0c3f" name="Default Changelist" comment="" />
+    <list default="true" id="b520f1e0-ddea-4d57-a4d3-80d0ec630aba" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,28 +17,27 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="1RFf8FvbP43p53abuHabxrPCgy9" />
+  <component name="ProjectId" id="1QxxFiWwAy3yMXyUjUlBYd6fdba" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TomiToma" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JUMBOTRON" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Tom\Documents\GitHub\TomiToma\DesignWeb\Favicon\js" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Tom\Documents\GitHub\TomiToma\DesignWeb\Favicon\js" />
+      <recent name="C:\Users\Tom\Documents\GitHub\TomiToma\DesignWeb\TomiToma" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Tom\Documents\GitHub\TomiToma\DesignWeb\TomiToma" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -58,25 +57,27 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4811f4f7-cc75-4084-b201-ffde272b0c3f" name="Default Changelist" comment="" />
-      <created>1569267603432</created>
+      <changelist id="b520f1e0-ddea-4d57-a4d3-80d0ec630aba" name="Default Changelist" comment="" />
+      <created>1568725946981</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1569267603432</updated>
-      <workItem from="1569267604744" duration="3227000" />
-      <workItem from="1569270850597" duration="1411000" />
-      <workItem from="1569282827134" duration="1118000" />
-      <workItem from="1569292266689" duration="314000" />
-      <workItem from="1569327192917" duration="15000" />
-      <workItem from="1569327276297" duration="3054000" />
-      <workItem from="1569331362139" duration="2136000" />
-      <workItem from="1569342836550" duration="1190000" />
-      <workItem from="1569348630882" duration="36000" />
-      <workItem from="1569377021751" duration="44000" />
-      <workItem from="1569440246180" duration="8000" />
-      <workItem from="1569507186338" duration="211000" />
-      <workItem from="1569508115472" duration="28000" />
-      <workItem from="1569531734380" duration="1353000" />
+      <updated>1568725946981</updated>
+      <workItem from="1568725948163" duration="3131000" />
+      <workItem from="1568738000897" duration="472000" />
+      <workItem from="1568741366584" duration="83000" />
+      <workItem from="1568902582905" duration="6043000" />
+      <workItem from="1568999745243" duration="1390000" />
+      <workItem from="1569001514909" duration="17000" />
+      <workItem from="1569266800596" duration="35000" />
+      <workItem from="1569266921194" duration="581000" />
+      <workItem from="1569288507011" duration="1509000" />
+      <workItem from="1569290197192" duration="898000" />
+      <workItem from="1569292255363" duration="10000" />
+      <workItem from="1569327210176" duration="65000" />
+      <workItem from="1569330335551" duration="1025000" />
+      <workItem from="1569533819164" duration="33000" />
+      <workItem from="1569609766292" duration="3218000" />
+      <workItem from="1569716779503" duration="566000" />
     </task>
     <servers />
   </component>
