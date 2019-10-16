@@ -1,0 +1,63 @@
+/* Cellulaires */
+@media only screen and (max-width: 480px){
+    .parallax {
+        /* L’image du Parallax */
+        background-image: url("../img/spider2.jpg");
+
+        /* L’hauteur du Parallax */
+        height: 100%;
+
+        /* Création de l’effet */
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}
+/* TABLETTES */
+@media screen and (min-width: 481px) and (max-width: 1199px) {
+    .parallax {
+        /* L’image du Parallax */
+        background-image: url("../img/spider1.jpg");
+
+        /* L’hauteur du Parallax */
+        height: 100%;
+
+        /* Création de l’effet */
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+
+}
+
+.bg1{
+    background-image: url("../img/spider.jpg");
+    background-size: cover;
+    height:100%;
+}
+html,body { margin:0; height:100%;}
+
+.parallax {
+    /* L’image du Parallax */
+    background-image: url("../img/spider.jpg");
+
+    /* L’hauteur du Parallax */
+    height: 100%;
+
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.aw{
+    background-color: #abdde5;
+}
+.A{
+    color: #ffc107;
+}
