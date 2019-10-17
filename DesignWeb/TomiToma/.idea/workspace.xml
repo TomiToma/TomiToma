@@ -29,7 +29,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Facebook" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HelloBootStrap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -75,6 +75,7 @@
       <workItem from="1569327210176" duration="65000" />
       <workItem from="1569330335551" duration="1025000" />
       <workItem from="1569533561733" duration="256000" />
+      <workItem from="1571267334514" duration="17000" />
     </task>
     <servers />
   </component>

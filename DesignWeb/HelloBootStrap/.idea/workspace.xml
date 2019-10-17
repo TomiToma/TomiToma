@@ -30,7 +30,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JUMBOTRON" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
@@ -72,6 +72,7 @@
       <workItem from="1568117495548" duration="2926000" />
       <workItem from="1569289396788" duration="48000" />
       <workItem from="1569511032774" duration="553000" />
+      <workItem from="1571267352509" duration="112000" />
     </task>
     <servers />
   </component>

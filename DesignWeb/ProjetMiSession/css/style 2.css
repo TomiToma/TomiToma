@@ -1,0 +1,37 @@
+/* Cellulaires */
+@media only screen and (max-width: 480px){
+
+}
+/* TABLETTES */
+@media screen and (min-width: 481px) and (max-width: 1199px) {
+
+}
+
+@media screen and (min-width: 1200px) {
+
+}
+body, html {
+    height: 100%;
+}
+
+.bg1{
+    background-image: url("../img/art5.png");
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    background-repeat: no-repeat;
+}
+.div1 {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    color: #abdde5;
+}
+.bg2{
+    background-color: bisque;
+}
+.bg3{
+    background-color: #e2e4cf;
+}
+

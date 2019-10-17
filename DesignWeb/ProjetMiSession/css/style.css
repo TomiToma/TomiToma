@@ -2,7 +2,7 @@
 @media only screen and (max-width: 480px){
     .parallax {
         /* L’image du Parallax */
-        background-image: url("../img/spider2.jpg");
+        background-image: url("../img/spider1.jpg");
 
         /* L’hauteur du Parallax */
         height: 100%;
@@ -18,7 +18,7 @@
 @media screen and (min-width: 481px) and (max-width: 1199px) {
     .parallax {
         /* L’image du Parallax */
-        background-image: url("../img/spider1.jpg");
+        background-image: url("../img/spider.jpg");
 
         /* L’hauteur du Parallax */
         height: 100%;

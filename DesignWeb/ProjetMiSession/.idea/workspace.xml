@@ -17,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -29,7 +30,8 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Favicon" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -57,7 +59,7 @@
       <workItem from="1570716536188" duration="6595000" />
       <workItem from="1571069038178" duration="6365000" />
       <workItem from="1571157367743" duration="8330000" />
-      <workItem from="1571171056120" duration="1212000" />
+      <workItem from="1571171056120" duration="17914000" />
     </task>
     <servers />
   </component>
