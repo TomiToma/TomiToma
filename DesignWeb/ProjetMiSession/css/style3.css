@@ -77,12 +77,24 @@ header .overlay {
 }
 /* Cellulaires */
 @media only screen and (max-width: 480px){
-
+    .bg1{
+        background-image: url("../img/g.jpg");
+        background-size: cover;
+        background-position: center;
+        height: 100%;
+        background-repeat: no-repeat;
+    }
 
 }
 /* TABLETTES */
 @media screen and (min-width: 481px) and (max-width: 1199px) {
-
+    .bg1{
+        background-image: url("../img/cute.jpg");
+        background-size: cover;
+        background-position: center;
+        height: 100%;
+        background-repeat: no-repeat;
+    }
 }
 
 @media screen and (min-width: 1200px) {
