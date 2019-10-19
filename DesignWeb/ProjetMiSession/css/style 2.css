@@ -1,15 +1,4 @@
-/* Cellulaires */
-@media only screen and (max-width: 480px){
 
-}
-/* TABLETTES */
-@media screen and (min-width: 481px) and (max-width: 1199px) {
-
-}
-
-@media screen and (min-width: 1200px) {
-
-}
 body, html {
     height: 100%;
 }
@@ -35,3 +24,37 @@ body, html {
     background-color: #e2e4cf;
 }
 
+/* Cellulaires */
+@media only screen and (max-width: 480px){
+
+    .bg1{
+        background-image: url("../img/pixel.jpg");
+        background-size: cover;
+        background-position: center;
+        height: 100%;
+        background-repeat: no-repeat;
+    }
+
+}
+/* TABLETTES */
+@media screen and (min-width: 481px) and (max-width: 1199px) {
+
+    .bg1{
+        background-image: url("../img/tab2.jpg");
+        background-size: cover;
+        background-position: center;
+        height: 100%;
+        background-repeat: no-repeat;
+    }
+    .div1 {
+        padding-top: 50px;
+        padding-right: 30px;
+        padding-bottom: 50px;
+        padding-left: 80px;
+        color: black;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+
+}
