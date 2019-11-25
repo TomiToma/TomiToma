@@ -17,6 +17,8 @@ $('#search').keyup(function (){
     }
 });
 $('#button').click(function (){
+    var value=$('#search').val().toString();
+
     var length=value.length;
     var tab=String[length];
     for (i=0; i<length;i++) {
@@ -46,7 +48,7 @@ $('#button').click(function (){
 
 $(document).on('keypress',function(e) {
 if(e.which === 13) {
-
+    var value=$('#search').val().toString();
 
     var length=value.length;
     var tab=String[length];
