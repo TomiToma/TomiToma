@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a2e99714-1563-4df8-a87e-01f12057a03b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1TnvJYBklRRjpgrqWjhQGUEGqLd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2e99714-1563-4df8-a87e-01f12057a03b" name="Default Changelist" comment="" />
+      <created>1574108602062</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574108602062</updated>
+      <workItem from="1574108603195" duration="33000" />
+      <workItem from="1574108646102" duration="174000" />
+      <workItem from="1574169268292" duration="5952000" />
+      <workItem from="1574188081971" duration="66000" />
+      <workItem from="1574282259077" duration="152000" />
+      <workItem from="1574283209184" duration="328000" />
+      <workItem from="1574349508904" duration="5633000" />
+      <workItem from="1574396621874" duration="3497000" />
+      <workItem from="1574445602706" duration="1778000" />
+      <workItem from="1574447541605" duration="238000" />
+      <workItem from="1574448132434" duration="20000" />
+      <workItem from="1574481405964" duration="3277000" />
+      <workItem from="1574519806314" duration="7261000" />
+      <workItem from="1574535915051" duration="4909000" />
+      <workItem from="1574542073775" duration="1052000" />
+      <workItem from="1574619198946" duration="965000" />
+      <workItem from="1574632798399" duration="9694000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

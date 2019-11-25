@@ -30,7 +30,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Favicon" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RunDashboard">
@@ -63,6 +63,9 @@
       <workItem from="1571315753691" duration="2977000" />
       <workItem from="1571336045822" duration="2194000" />
       <workItem from="1571399836444" duration="15921000" />
+      <workItem from="1571508903899" duration="627000" />
+      <workItem from="1571686696320" duration="52000" />
+      <workItem from="1571749697786" duration="16000" />
     </task>
     <servers />
   </component>

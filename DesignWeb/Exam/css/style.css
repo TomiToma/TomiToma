@@ -1,0 +1,38 @@
+.red{
+    color: orangered;
+}
+.bruh{
+    color: #34ce57;
+}
+.bck{
+
+    width: 14%;
+}
+
+ .background1{
+     background-image: url("../background/blanc.jpg") ;
+ }
+.background2{
+    background-image: url("../background/bleu.jpg") ;
+}
+.background3{
+    background-image: url("../background/bleuFonce.jpg") ;
+}
+.background4{
+    background-image: url("../background/gris.jpg") ;
+}
+.background5{
+    background-image: url("../background/noir.jpg") ;
+}
+.background6{
+    background-image: url("../background/rose.jpg") ;
+}
+.background7{
+    background-image: url("../background/rouge.jpg") ;
+}
+@media print
+{
+    body * { visibility: hidden; }
+    .id * { visibility: visible; }
+
+}

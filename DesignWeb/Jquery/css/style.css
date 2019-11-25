@@ -1,0 +1,55 @@
+html,body{
+    margin: 0;
+    height: 100%;
+}
+.bg1 {
+
+    background-image: url("../img/carson.jpg");
+   height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg2{
+
+    background-image: url("../img/Swagger.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg3 {
+    background-image: url("../img/Rayes.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}.bg4{
+    background-image: url("../img/background.jpg");
+ }
+.grosseboite{
+    overflow:hidden;
+    height:100%;
+    width: 100%;
+}
+.bg1{
+    background-image: url("../img/carson.jpg");
+    transition: all 05s ease;
+}
+.bg2{
+    background-image: url("../img/Swagger.jpg");
+    transition: all 05s ease;
+}
+.bg3{
+    background-image: url("../img/Rayes.jpg");
+    transition: all 05s ease;
+}
+.bg1:hover{
+    transform: scale(1.1);
+}
+.bg2:hover{
+    transform: scale(1.1);
+}
+.bg3:hover{
+    transform: scale(1.1);
+}

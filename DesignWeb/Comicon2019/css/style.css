@@ -1,0 +1,30 @@
+.rouge {
+    /*on fait jamais ca*/
+    height: 200px;
+    /*mettre une couleur fixe en BS*/
+    background-color: #c82333;
+}
+
+.bleu{
+    background-color: #004085;
+}
+.vert{
+    background-color: #34ce57;
+}
+.jaune{
+    background-color: #ffc107;
+}
+.orange{
+    background-color: orangered;
+}
+.bg1{
+    background-image: url("../img/Bee.jpg");
+    background-size: cover;
+    height:800px
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
