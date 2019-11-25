@@ -42,8 +42,7 @@ $('#button').click(function (){
         for (i=0;i<length;i++){
             $('#id').append("<div class=\"col-4 px-2\"><img src=\"Letters/"+value[i]+"/"+value[i]+"1.jpg\" height=\"100%\" width=\"100%\"/></div>");
         }}
-
-    });
+});
 
 
 $(document).on('keypress',function(e) {
