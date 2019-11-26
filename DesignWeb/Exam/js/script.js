@@ -17,62 +17,64 @@ $('#search').keyup(function (){
     }
 });
 $('#button').click(function (){
-    var value=$('#search').val().toString();
+    var val=$('#search').val().toString().toUpperCase();
 
-    var length=value.length;
-    var tab=String[length];
-    for (i=0; i<length;i++) {
-        length[i] = value[i];
+    var long=val.length;
+    var tab=String[long];
+    for (i=0; i<long;i++) {
+        long[i] = val[i];
     }
     $('#id').html("");
-    if (length<13 && length>6){
-        for (i=0;i<length;i++){
-            $('#id').append("<div class=\"col-1 px-2\"><img src=\"Letters/"+value[i]+"/"+value[i]+"1.jpg\" height=\"100%\" width=\"100%\"/></div>");
+    if (long<13 && long>6){
+        for (i=0;i<long;i++){
+            $('#id').append("<div class=\"col-1 px-2\"><img src=\"Letters/"+val[i]+"/"+val[i]+"1.jpg\" height=\"100%\" width=\"100%\"/></div>");
         }
     }
-    else if (length<7 && length>4){
-        for (i=0;i<length;i++){
-            $('#id').append("<div class=\"col-2 px-2\"><img src=\"Letters/"+value[i]+"/"+value[i]+"1.jpg\" height=\"100%\" width=\"100%\"/></div>");
+    else if (long<7 && long>4){
+        for (i=0;i<long;i++){
+            $('#id').append("<div class=\"col-2 px-2\"><img src=\"Letters/"+val[i]+"/"+val[i]+"1.jpg\" height=\"100%\" width=\"100%\"/></div>");
         }}
-    else if (length===4){
-        for (i=0;i<length;i++){
-            $('#id').append("<div class=\"col-3 px-2\"><img src=\"Letters/"+value[i]+"/"+value[i]+"1.jpg\" height=\"100%\" width=\"100%\"/></div>");
+    else if (long===4){
+        for (i=0;i<long;i++){
+            $('#id').append("<div class=\"col-3 px-2\"><img src=\"Letters/"+val[i]+"/"+val[i]+"1.jpg\" height=\"100%\" width=\"100%\"/></div>");
         }}
-    else if (length===3){
-        for (i=0;i<length;i++){
-            $('#id').append("<div class=\"col-4 px-2\"><img src=\"Letters/"+value[i]+"/"+value[i]+"1.jpg\" height=\"100%\" width=\"100%\"/></div>");
+    else if (long===3){
+        for (i=0;i<long;i++){
+            $('#id').append("<div class=\"col-4 px-2\"><img src=\"Letters/"+val[i]+"/"+val[i]+"1.jpg\" height=\"100%\" width=\"100%\"/></div>");
         }}
 });
 
 
 $(document).on('keypress',function(e) {
 if(e.which === 13) {
-    var value=$('#search').val().toString();
+    var val=$('#search').val().toString().toUpperCase();
 
-    var length=value.length;
-    var tab=String[length];
-    for (i=0; i<length;i++) {
-        length[i] = value[i];
+    var long=val.length;
+    var tab=String[long];
+    for (i=0; i<long;i++) {
+        long[i] = val[i];
     }
     $('#id').html("");
-    if (length<13 && length>6){
-        for (i=0;i<length;i++){
-            $('#id').append("<div class=\"col-1 px-2\"><img src=\"Letters/"+value[i]+"/"+value[i]+"1.jpg\" height=\"100%\" width=\"100%\"/></div>");
+    if (long<13 && long>6){
+        for (i=0;i<long;i++){
+            $('#id').append("<div class=\"col-1 px-2\"><img src=\"Letters/"+val[i]+"/"+val[i]+"1.jpg\" height=\"100%\" width=\"100%\"/></div>");
         }
     }
-    else if (length<7 && length>4){
-        for (i=0;i<length;i++){
-            $('#id').append("<div class=\"col-2 px-2\"><img src=\"Letters/"+value[i]+"/"+value[i]+"1.jpg\" height=\"100%\" width=\"100%\"/></div>");
+    else if (long<7 && long>4){
+        for (i=0;i<long;i++){
+            $('#id').append("<div class=\"col-2 px-2\"><img src=\"Letters/"+val[i]+"/"+val[i]+"1.jpg\" height=\"100%\" width=\"100%\"/></div>");
         }}
-    else if (length===4){
-        for (i=0;i<length;i++){
-            $('#id').append("<div class=\"col-3 px-2\"><img src=\"Letters/"+value[i]+"/"+value[i]+"1.jpg\" height=\"100%\" width=\"100%\"/></div>");
+    else if (long===4){
+        for (i=0;i<long;i++){
+            $('#id').append("<div class=\"col-3 px-2\"><img src=\"Letters/"+val[i]+"/"+val[i]+"1.jpg\" height=\"100%\" width=\"100%\"/></div>");
         }}
-    else if (length===3){
-        for (i=0;i<length;i++){
-            $('#id').append("<div class=\"col-4 px-2\"><img src=\"Letters/"+value[i]+"/"+value[i]+"1.jpg\" height=\"100%\" width=\"100%\"/></div>");
+    else if (long===3){
+        for (i=0;i<long;i++){
+            $('#id').append("<div class=\"col-4 px-2\"><img src=\"Letters/"+val[i]+"/"+val[i]+"1.jpg\" height=\"100%\" width=\"100%\"/></div>");
         }}
+
 }
+
 });
 $("#blanc").click(function () {
 $('#id').removeClass('background2 background3 background4 background5 background6 background7').addClass('background1');
