@@ -1,17 +1,14 @@
-/* Error: Undefined variable.
- *   ,
- * 2 |   color: $variable
- *   |          ^^^^^^^^^
- *   '
- *   style.sass 2:10  root stylesheet */
-
-body::before {
-  font-family: "Source Code Pro", "SF Mono", Monaco, Inconsolata, "Fira Mono",
-      "Droid Sans Mono", monospace, monospace;
-  white-space: pre;
-  display: block;
-  padding: 1em;
-  margin-bottom: 1em;
-  border-bottom: 2px solid black;
-  content: "Error: Undefined variable.\a   \2577 \a 2 \2502    color: $variable\d\a   \2502           ^^^^^^^^^\a   \2575 \a   style.sass 2:10  root stylesheet";
+.h1 {
+  color: orange;
 }
+
+.col7 {
+  width: 14.2857142857%;
+  float: left;
+}
+
+.img-fluid {
+  width: 100%;
+}
+
+/*# sourceMappingURL=style.css.map */

@@ -19,7 +19,9 @@
   <component name="ProjectId" id="1Tc1iMvPlAwBFfh7DzthzZ58eRj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pkmn" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -44,6 +46,9 @@
       <option name="presentableId" value="Default" />
       <updated>1573744695926</updated>
       <workItem from="1573744697094" duration="18000" />
+      <workItem from="1574957338945" duration="16000" />
+      <workItem from="1574957593318" duration="4000" />
+      <workItem from="1574957615087" duration="164000" />
     </task>
     <servers />
   </component>
@@ -55,7 +60,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

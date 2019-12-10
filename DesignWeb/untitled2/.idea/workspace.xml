@@ -21,7 +21,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Comicon2019" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../untitled3" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -46,6 +46,7 @@
       <option name="presentableId" value="Default" />
       <updated>1573143537150</updated>
       <workItem from="1573143538779" duration="91000" />
+      <workItem from="1574957373558" duration="205000" />
     </task>
     <servers />
   </component>
@@ -57,7 +58,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

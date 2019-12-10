@@ -18,6 +18,7 @@
       <list>
         <option value="XSLT Stylesheet" />
         <option value="Sass File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -29,8 +30,8 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Exam" />
-    <property name="list.type.of.created.stylesheet" value="Sass" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../untitled2" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -44,6 +45,16 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ShanyScript/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -56,6 +67,9 @@
       <updated>1574716975738</updated>
       <workItem from="1574716976878" duration="1882000" />
       <workItem from="1574729568333" duration="88000" />
+      <workItem from="1574774569166" duration="5472000" />
+      <workItem from="1574792967653" duration="208000" />
+      <workItem from="1574957356020" duration="17000" />
     </task>
     <servers />
   </component>

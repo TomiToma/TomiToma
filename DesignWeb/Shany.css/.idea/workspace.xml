@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="814c2b78-a5e8-4cba-bac3-aabd6cd42e90" name="Default Changelist" comment="" />
+    <list default="true" id="6bf943b6-0cc7-45f5-90f3-d33fdba4b674" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,21 +13,15 @@
       <executable />
     </execution>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="JavaScript File" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="1Tc1ki8b0XBBY5dbplgCupMiibK" />
+  <component name="ProjectId" id="1U9fqGk7lXN8VkkwIVdzgOyFpMq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ShanyScript" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -41,28 +35,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/untitled/index.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JavaScript Debug.index.html" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="814c2b78-a5e8-4cba-bac3-aabd6cd42e90" name="Default Changelist" comment="" />
-      <created>1573744714361</created>
+      <changelist id="6bf943b6-0cc7-45f5-90f3-d33fdba4b674" name="Default Changelist" comment="" />
+      <created>1574773920573</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1573744714361</updated>
-      <workItem from="1573744716119" duration="5230000" />
-      <workItem from="1573843951465" duration="16000" />
+      <updated>1574773920573</updated>
+      <workItem from="1574773921697" duration="18000" />
     </task>
     <servers />
   </component>
@@ -74,9 +57,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>

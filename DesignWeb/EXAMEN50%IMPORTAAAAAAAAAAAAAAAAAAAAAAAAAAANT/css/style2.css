@@ -1,0 +1,43 @@
+/* Cellulaires */
+@media only screen and (max-width: 480px){
+    .bg1{
+        background-image: url("../img/sponge bob2.jpg");
+        background-size: cover;
+        background-position: center;
+        height: 100%;
+        background-repeat: no-repeat;
+    }
+
+}
+/* TABLETTES */
+@media screen and (min-width: 481px) and (max-width: 1199px) {
+    .bg1{
+        background-image: url("../img/sponge bob3.jpg");
+        background-size: cover;
+        background-position: center;
+        height: 100%;
+        background-repeat: no-repeat;
+    }
+
+}
+
+@media screen and (min-width: 1200px) {
+
+}
+
+
+html,body { margin:0; height:100%;}
+body, html {
+    height: 100%;
+}
+
+.bg1{
+    background-image: url("../img/sponge bob.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    background-repeat: no-repeat;
+}
+.brun{
+    color: brown;
+}
