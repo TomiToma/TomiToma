@@ -30,7 +30,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../EXAMEN50%IMPORTAAAAAAAAAAAAAAAAAAAAAAAAAAANT" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RunDashboard">
@@ -77,6 +77,12 @@
       <workItem from="1575649850134" duration="675000" />
       <workItem from="1575688644616" duration="1290000" />
       <workItem from="1575744709009" duration="478000" />
+      <workItem from="1576049631873" duration="810000" />
+      <workItem from="1576336846291" duration="33000" />
+      <workItem from="1576340830436" duration="41000" />
+      <workItem from="1576340888257" duration="3000" />
+      <workItem from="1576340910601" duration="12000" />
+      <workItem from="1576358854906" duration="2104000" />
     </task>
     <servers />
   </component>

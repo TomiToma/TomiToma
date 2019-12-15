@@ -1,43 +1,49 @@
 /* Cellulaires */
 @media only screen and (max-width: 480px){
-
     .bg1{
-        background-image: url("../img/simpson.jpg");
+        background-image: url("../img/sc2.jpg");
         background-size: cover;
         background-position: center;
         height: 100%;
         background-repeat: no-repeat;
+    }
+    .o{
+        color: orangered;
     }
 }
 /* TABLETTES */
 @media screen and (min-width: 481px) and (max-width: 1199px) {
     .bg1{
-        background-image: url("../img/simpson2.jpg");
+        background-image: url("../img/sc3.jpg");
         background-size: cover;
         background-position: center;
         height: 100%;
         background-repeat: no-repeat;
+    }
+    .o{
+        color: orangered;
     }
 }
 
 @media screen and (min-width: 1200px) {
     .bg1{
-        background-image: url("../img/simpson3.jpg");
+        background-image: url("../img/bck4.png");
         background-size: cover;
         background-position: center;
         height: 100%;
         background-repeat: no-repeat;
     }
-
-}
-
-.noir{
-    color: black;
+    .o{
+        color: orangered;
+    }
 }
 
 html,body { margin:0; height:100%;}
 body, html {
     height: 100%;
+}
+.p{
+    background-color: blueviolet;
 }
 @charset "UTF-8";
 
@@ -3664,5 +3670,3 @@ body, html {
         animation-iteration-count: 1 !important;
     }
 }
-
-

@@ -3,54 +3,77 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>TomiToma</title>
+    <title>Les Simpsons</title>
+    <link rel="stylesheet" type="text/css" href="https://csshake.surge.sh/csshake.min.css">
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/style3.css">
     <link rel="icon" type="image/gif" href="img/fav2.png" />
-    <script src="https://kit.fontawesome.com/a46d75ba7a.js"defer></script>
-    <script src="js/jquery-3.4.1.min.js"defer></script>
-    <script src="js/bootstrap.js"defer></script>
+    <script src="https://kit.fontawesome.com/a46d75ba7a.js" defer></script>
+    <script src="js/jquery-3.4.1.min.js" defer></script>
+    <script src="js/bootstrap.js" defer></script>
 </head>
 <body>
 <nav class="navbar navbar-expand-lg navbar-light bg-light blue">
-    <a class="navbar-brand" href=""><i class="fas fa-pizza-slice"></i>Les Simpsons</a>
-
+    <a class="navbar-brand animated zoomIn" href=""><i class="fas fa-hamburger animated zoomIn"></i>Les simpsons</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"   aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class=""><i class="fas fa-hotdog"></i></span>
     </button>
 
     <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
-            <li class="nav-item"><a class="nav-link" href="index.html">Lucky Luke</a></li>
-            <li class="nav-item"><a class="nav-link" href="index2.html">Bob l'éponge</a></li>
-            <li class="nav-item"><a class="nav-link" href="index3.html">Simpson</a></li>
-            <li class="nav-item"><a class="nav-link" href="">site4</a></li>
-            <li class="nav-item"><a class="nav-link" href="">site5</a></li>
+            <li class="nav-item shake-opacity"><a class="nav-link" href="index.html">Lucky Luke</a></li>
+            <li class="nav-item shake-opacity"><a class="nav-link" href="index2.html">Bob l'éponge</a></li>
+            <li class="nav-item shake-opacity"><a class="nav-link" href="index3.html">Simpson</a></li>
+            <li class="nav-item shake-opacity"><a class="nav-link" href="index4.html">Scooby-Doo</a></li>
+            <li class="nav-item shake-opacity"><a class="nav-link" href="index5.html">Abonnez-vous</a></li>
         </ul>
     </div>
 </nav>
-<header>
-    <div class="overlay"></div>
 
-    <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
-        <source src="./img/The%20Simpsons%20Intro%20Season%201%201990.mp4" type="video/mp4">
-    </video>
-
-    <div class="container h-100">
-        <div class="row h-100 text-center align-items-center">
+    <div class="container-fluid w-100 h-100 bg1">
+        <div class="row h-100 w-100 text-center align-items-center">
             <div class="col-12 text-white">
-                <h1 class="display-3">Les Simpsons</h1>
-                <p class="lead mb-0">Depuis longtemps</p>
+                <h1 class="display-3 animated bounceInLeft noir">Les Simpsons</h1>
+                <p class="lead mb-0 animated bounceInUp noir">Depuis longtemps</p>
             </div>
         </div>
     </div>
-</header>
 
 
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+        <ul class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li>
+            <li data-target="#myCarousel" data-slide-to="3"></li>
+            <li data-target="#myCarousel" data-slide-to="4"></li>
+        </ul>
 
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img class="img-fluid" src="img/bck1.jpg" alt="">
+            </div>
+            <div class="carousel-item">
+                <img class="img-fluid" src="img/bck2.jpg" alt="">
+            </div>
+            <div class="carousel-item">
+                <img class="img-fluid" src="img/bck3.jpg" alt="">
+            </div>
+            <div class="carousel-item">
+                <img class="img-fluid" src="img/bck4.jpg" alt="">
+            </div>
+            <div class="carousel-item">
+                <img class="img-fluid" src="img/bck5.jpg" alt="">
+            </div>
+        </div>
 
-
-
+        <a class="carousel-control-prev" href="#myCarousel" data-slide="prev">
+            <span class="carousel-control-prev-icon"></span>
+        </a>
+        <a class="carousel-control-next" href="#myCarousel" data-slide="next">
+            <span class="carousel-control-next-icon"></span>
+        </a>
+    </div>
 
 </body>
 </html>
